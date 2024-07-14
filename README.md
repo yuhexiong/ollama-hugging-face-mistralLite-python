@@ -2,6 +2,7 @@
 
 Using ollama with custom Model From HuggingFace MistralLite for **traditional chinese chatting**. I run the command in a Colab .ipynb file, but you can choose the environment that suits you.  
 
+HuggingFace MistralLite Model From [Website](https://huggingface.co/TheBloke/MistralLite-7B-GGUF).  
 
 ## Overview
 

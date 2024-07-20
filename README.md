@@ -19,6 +19,19 @@ ollama-hugging-face-mistralLite-python/
     └── mistrallite.Q8_0.gguf
 ```
 
+## Run
+
+### Run Cmd
+```
+python ollama_mistrallite_q8_cmd.py
+```
+
+### Run Python
+```
+python ollama_mistrallite_q8_subprocess.py
+```
+
+
 ## Results
 
 ### Adding Model Into Ollama
